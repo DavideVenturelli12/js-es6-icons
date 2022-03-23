@@ -1,0 +1,52 @@
+/*generics*/
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+/*content*/
+
+.title{
+    height: 10vh;
+    color: rgb(56, 133, 248);
+}
+
+.bg-lightblue{
+    height: 10vh;
+    background-color: rgb(56, 133, 248);
+    color: white;
+}
+
+.icons-container{
+    height: 80vh;
+    background-color: lightgrey;
+}
+
+.cella{
+    align-items: center;
+    padding: 15px 20px;
+    margin:15px 15px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+i{
+    font-size: 30px;
+}
+
+.orange{
+    color: orange;
+}
+
+.green{
+    color: green;
+}
+
+.blue{
+    color: blue;
+}
