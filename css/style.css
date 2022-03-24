@@ -23,16 +23,17 @@ body{
 }
 
 .icons-container{
+    justify-content: center;
+    padding: 10px;
     height: 80vh;
     background-color: lightgrey;
 }
 
 .cella{
-    align-items: center;
-    padding: 15px 20px;
-    margin:15px 15px;
+    height: 80px;
     background-color: white;
     border-radius: 10px;
+    cursor: pointer;
 }
 
 i{
